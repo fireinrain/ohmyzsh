@@ -23,4 +23,4 @@ plugins=(... please)
 
 ## Maintainer
 
-[@thought-machine](https://github.com/thought-machine)
+[@thought-machine](https://ghproxy.com/https://github.com/thought-machine)

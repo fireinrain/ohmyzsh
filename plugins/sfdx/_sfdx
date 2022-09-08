@@ -2,8 +2,8 @@
 
 # DESCRIPTION: Zsh completion script for the Salesforce CLI
 # AUTHOR: Wade Wegner (@WadeWegner)
-# REPO: https://github.com/wadewegner/salesforce-cli-zsh-completion
-# LICENSE: https://github.com/wadewegner/salesforce-cli-zsh-completion/blob/master/LICENSE
+# REPO: https://ghproxy.com/https://github.com/wadewegner/salesforce-cli-zsh-completion
+# LICENSE: https://ghproxy.com/https://github.com/wadewegner/salesforce-cli-zsh-completion/blob/master/LICENSE
 
 local -a _1st_arguments
 

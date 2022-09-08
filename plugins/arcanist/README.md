@@ -1,6 +1,6 @@
 ## arcanist
 
-This plugin adds many useful aliases for [arcanist](https://github.com/phacility/arcanist).
+This plugin adds many useful aliases for [arcanist](https://ghproxy.com/https://github.com/phacility/arcanist).
 
 To use it, add `arcanist` to the plugins array of your zshrc file:
 

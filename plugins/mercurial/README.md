@@ -65,5 +65,5 @@ to use `hg_prompt_info`, are required in order for this to work.
 
 ## Maintainers
 
-- [ptrv](https://github.com/ptrv): original creator
-- [oshybystyi](https://github.com/oshybystyi)
+- [ptrv](https://ghproxy.com/https://github.com/ptrv): original creator
+- [oshybystyi](https://ghproxy.com/https://github.com/oshybystyi)

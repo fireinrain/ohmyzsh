@@ -11,7 +11,7 @@ plugins=(... mvn)
 
 ## Aliases
 
-The plugin aliases mvn to a function that calls `mvnw` (the [Maven Wrapper](https://github.com/takari/maven-wrapper))
+The plugin aliases mvn to a function that calls `mvnw` (the [Maven Wrapper](https://ghproxy.com/https://github.com/takari/maven-wrapper))
 if it's found, or the mvn command otherwise.
 
 | Alias                | Command                                         |
@@ -58,4 +58,4 @@ has colored output, so this function will be soon removed from the plugin.
 ### Known bugs
 
 It has a bug where it will swallow mvn prompts for user input, _e.g._ when using
-`archetype:generate`. See [#5052](https://github.com/ohmyzsh/ohmyzsh/issues/5052).
+`archetype:generate`. See [#5052](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/issues/5052).

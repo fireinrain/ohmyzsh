@@ -1,8 +1,8 @@
 # VS Code (stable / insiders) / VSCodium zsh plugin
 # Authors:
-#   https://github.com/MarsiBarsi (original author)
-#   https://github.com/babakks
-#   https://github.com/SteelShot
+#   https://ghproxy.com/https://github.com/MarsiBarsi (original author)
+#   https://ghproxy.com/https://github.com/babakks
+#   https://ghproxy.com/https://github.com/SteelShot
 
 # Verify if any manual user choice of VS Code exists first.
 if [[ -n "$VSCODE" ]] && ! which $VSCODE &>/dev/null; then

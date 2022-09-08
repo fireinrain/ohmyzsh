@@ -1,4 +1,4 @@
-# See https://github.com/nvm-sh/nvm#installation-and-update
+# See https://ghproxy.com/https://github.com/nvm-sh/nvm#installation-and-update
 if [[ -z "$NVM_DIR" ]]; then
   if [[ -d "$HOME/.nvm" ]]; then
     export NVM_DIR="$HOME/.nvm"
@@ -38,7 +38,7 @@ if (( $+NVM_LAZY )); then
 fi
 
 # Autoload nvm when finding a .nvmrc file in the current directory
-# Adapted from: https://github.com/nvm-sh/nvm#zsh
+# Adapted from: https://ghproxy.com/https://github.com/nvm-sh/nvm#zsh
 if (( $+NVM_AUTOLOAD )); then
   load-nvmrc() {
     local node_version="$(nvm version)"
@@ -70,7 +70,7 @@ for nvm_completion in "$NVM_DIR/bash_completion" "$NVM_HOMEBREW/etc/bash_complet
     # Load bashcompinit
     autoload -U +X bashcompinit && bashcompinit
     # Bypass compinit call in nvm bash completion script. See:
-    # https://github.com/nvm-sh/nvm/blob/4436638/bash_completion#L86-L93
+    # https://ghproxy.com/https://github.com/nvm-sh/nvm/blob/4436638/bash_completion#L86-L93
     ZSH_VERSION= source "$nvm_completion"
     break
   fi

@@ -9,4 +9,4 @@ To use it, add it to the plugins array in your `~/.zshrc` file:
 plugins=(... tugboat)
 ```
 
-Further documentation for Tugboat can be found in the [Tugboat repository](https://github.com/petems/tugboat).
+Further documentation for Tugboat can be found in the [Tugboat repository](https://ghproxy.com/https://github.com/petems/tugboat).

@@ -25,7 +25,7 @@ While Linux installations will add the executable to PATH, MacOS users might sti
 the Command Palette via (F1 or ⇧⌘P) and type shell command to find the Shell Command:
 > Shell Command: Install 'code' command in PATH
 
-[For VSCodium](https://github.com/VSCodium/vscodium/blob/master/DOCS.md#how-do-i-open-vscodium-from-the-terminal), open
+[For VSCodium](https://ghproxy.com/https://github.com/VSCodium/vscodium/blob/master/DOCS.md#how-do-i-open-vscodium-from-the-terminal), open
 the Command Palette via (F1 or ⇧⌘P) and type shell command to find the Shell Command:
 > Shell Command: Install 'codium' command in PATH
 

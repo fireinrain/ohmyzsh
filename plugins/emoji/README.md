@@ -109,7 +109,7 @@ Note that `$emoji_skintone` is an associative array, and its keys are the *names
 
 ####  Gemoji support
 
-The [gemoji project](https://github.com/github/gemoji) seems to be the de facto main source for short names and other emoji-related metadata that isn't included in the official Unicode reports. So, our list of emojis incorporates some of their aliases to make your life more convenient:
+The [gemoji project](https://ghproxy.com/https://github.com/github/gemoji) seems to be the de facto main source for short names and other emoji-related metadata that isn't included in the official Unicode reports. So, our list of emojis incorporates some of their aliases to make your life more convenient:
 
 ```
 echo $emoji[grinning_face_with_smiling_eyes]

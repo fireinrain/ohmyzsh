@@ -34,4 +34,4 @@ This plugin removes the requirement to type `lando` before a command. It utilize
 ## Author:
 
 - Author: Joshua Bedford
-- URL: [https://github.com/joshuabedford/lando-zsh](https://github.com/joshuabedford/lando-zsh)
+- URL: [https://ghproxy.com/https://github.com/joshuabedford/lando-zsh](https://ghproxy.com/https://github.com/joshuabedford/lando-zsh)

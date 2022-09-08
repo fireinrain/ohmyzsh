@@ -29,6 +29,6 @@ plugins=(... ansible)
 
 ## Maintainer
 
-### [Deepankumar](https://github.com/deepan10) 
+### [Deepankumar](https://ghproxy.com/https://github.com/deepan10) 
 
-[https://github.com/deepan10/oh-my-zsh/tree/features/ansible-plugin](https://github.com/deepan10/oh-my-zsh/tree/features/ansible-plugin)
+[https://ghproxy.com/https://github.com/deepan10/oh-my-zsh/tree/features/ansible-plugin](https://ghproxy.com/https://github.com/deepan10/oh-my-zsh/tree/features/ansible-plugin)

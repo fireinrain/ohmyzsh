@@ -102,7 +102,7 @@ zmodload -F zsh/parameter
 # We have to "override" some keys and widgets if the
 # zsh-syntax-highlighting plugin has not been loaded:
 #
-# https://github.com/nicoulaj/zsh-syntax-highlighting
+# https://ghproxy.com/https://github.com/nicoulaj/zsh-syntax-highlighting
 #
 if [[ $+functions[_zsh_highlight] -eq 0 ]]; then
   #
@@ -119,7 +119,7 @@ if [[ $+functions[_zsh_highlight] -eq 0 ]]; then
   #
   # The following snippet was taken from the zsh-syntax-highlighting project:
   #
-  # https://github.com/zsh-users/zsh-syntax-highlighting/blob/56b134f5d62ae3d4e66c7f52bd0cc2595f9b305b/zsh-syntax-highlighting.zsh#L126-161
+  # https://ghproxy.com/https://github.com/zsh-users/zsh-syntax-highlighting/blob/56b134f5d62ae3d4e66c7f52bd0cc2595f9b305b/zsh-syntax-highlighting.zsh#L126-161
   #
   # Copyright (c) 2010-2011 zsh-syntax-highlighting contributors
   # All rights reserved.

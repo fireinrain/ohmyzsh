@@ -10,4 +10,4 @@ plugins=(... oc)
 
 ## Contributors
 
-+ [kevinkirkup](https://github.com/kevinkirkup) - Plugin Author
++ [kevinkirkup](https://ghproxy.com/https://github.com/kevinkirkup) - Plugin Author

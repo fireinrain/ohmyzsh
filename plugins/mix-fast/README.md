@@ -8,7 +8,7 @@ to update cache you should remove .mix_tasks file
 
 Inspired by and based on rake-fast zsh plugin.
 
-This is entirely based on [this pull request by Ullrich Schäfer](https://github.com/robb/.dotfiles/pull/10/), which is inspired by [this Ruby on Rails trick from 2006](https://weblog.rubyonrails.org/2006/3/9/fast-rake-task-completion-for-zsh/).
+This is entirely based on [this pull request by Ullrich Schäfer](https://ghproxy.com/https://github.com/robb/.dotfiles/pull/10/), which is inspired by [this Ruby on Rails trick from 2006](https://weblog.rubyonrails.org/2006/3/9/fast-rake-task-completion-for-zsh/).
 
 
 ## Installation
@@ -25,4 +25,4 @@ You might consider adding `.mix_tasks` to your [global .gitignore](https://help.
 
 `mix`, then press tab
 
-Currently maintained by [styx](https://github.com/styx/)
+Currently maintained by [styx](https://ghproxy.com/https://github.com/styx/)

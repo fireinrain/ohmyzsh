@@ -11,13 +11,13 @@ plugins=(... zsh-interactive-cd)
 
 ## Usage
 
-Press tab for completion as usual, it'll launch fzf automatically. Check fzf’s [readme](https://github.com/junegunn/fzf#search-syntax) for more search syntax usage.
+Press tab for completion as usual, it'll launch fzf automatically. Check fzf’s [readme](https://ghproxy.com/https://github.com/junegunn/fzf#search-syntax) for more search syntax usage.
 
 ## Requirements
 
-This plugin requires [fzf](https://github.com/junegunn/fzf). Install it by following
-its [installation instructions](https://github.com/junegunn/fzf#installation).
+This plugin requires [fzf](https://ghproxy.com/https://github.com/junegunn/fzf). Install it by following
+its [installation instructions](https://ghproxy.com/https://github.com/junegunn/fzf#installation).
 
 ## Author
 
-[Henry Chang](https://github.com/changyuheng)
+[Henry Chang](https://ghproxy.com/https://github.com/changyuheng)

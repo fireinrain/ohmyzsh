@@ -26,5 +26,5 @@ gradle build
 
 ## Completion
 
-This plugin uses [the completion from the Gradle project](https://github.com/gradle/gradle-completion),
+This plugin uses [the completion from the Gradle project](https://ghproxy.com/https://github.com/gradle/gradle-completion),
 which is distributed under the MIT license.

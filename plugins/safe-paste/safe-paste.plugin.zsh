@@ -2,11 +2,11 @@
 # https://archive.zhimingwang.org/blog/2015-09-21-zsh-51-and-bracketed-paste.html
 
 # zsh 5.1 (September 2015) introduced built-in support for Bracketed Paste Mode
-# https://github.com/zsh-users/zsh/blob/68405f31a043bdd5bf338eb06688ed3e1f740937/README#L38-L45
+# https://ghproxy.com/https://github.com/zsh-users/zsh/blob/68405f31a043bdd5bf338eb06688ed3e1f740937/README#L38-L45
 #
 # zsh 5.1 breaks url-quote-magic and other widgets replacing self-insert
 # zsh-users' bracketed-paste-magic resolves these issues:
-# https://github.com/zsh-users/zsh/blob/f702e17b14d75aa21bff014168fa9048124db286/Functions/Zle/bracketed-paste-magic#L9-L12
+# https://ghproxy.com/https://github.com/zsh-users/zsh/blob/f702e17b14d75aa21bff014168fa9048124db286/Functions/Zle/bracketed-paste-magic#L9-L12
 
 # Load bracketed-paste-magic if zsh version is >= 5.1
 if [[ ${ZSH_VERSION:0:3} -ge 5.1 ]]; then
@@ -45,7 +45,7 @@ zle -N _bracketed_paste_end
 zle -N bracketed-paste-enqueue _bracketed_paste_enqueue
 
 # Attempt to not clobber zle_line_{init,finish}
-# Use https://github.com/willghatch/zsh-hooks if available
+# Use https://ghproxy.com/https://github.com/willghatch/zsh-hooks if available
 if typeset -f hooks-add-hook > /dev/null; then
   hooks-add-hook zle_line_init_hook   _bracketed_paste_zle_init
   hooks-add-hook zle_line_finish_hook _bracketed_paste_zle_finish

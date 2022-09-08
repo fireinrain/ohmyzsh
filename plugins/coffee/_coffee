@@ -1,6 +1,6 @@
 #compdef coffee
 # ------------------------------------------------------------------------------
-# Copyright (c) 2011 Github zsh-users - https://github.com/zsh-users
+# Copyright (c) 2011 Github zsh-users - https://ghproxy.com/https://github.com/zsh-users
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -34,8 +34,8 @@
 # Authors
 # -------
 #
-#  * Mario Fernandez (https://github.com/sirech)
-#  * Dong Weiming (https://github.com/dongweiming)
+#  * Mario Fernandez (https://ghproxy.com/https://github.com/sirech)
+#  * Dong Weiming (https://ghproxy.com/https://github.com/dongweiming)
 #
 # ------------------------------------------------------------------------------
 

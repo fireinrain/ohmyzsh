@@ -1,6 +1,6 @@
 # chruby plugin
 
-This plugin loads [chruby](https://github.com/postmodern/chruby), a tool that changes the
+This plugin loads [chruby](https://ghproxy.com/https://github.com/postmodern/chruby), a tool that changes the
 current Ruby version, and completion and a prompt function to display the Ruby version.
 Supports brew and manual installation of chruby.
 

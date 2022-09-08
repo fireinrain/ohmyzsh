@@ -44,7 +44,7 @@ Available search contexts are:
 | emberjs       | `https://www.google.com/search?as_sitesearch=emberjs.com/&as_q=`            |
 | flowtype      | `https://google.com/search?as_sitesearch=flow.org/en/docs/&as_q=`           |
 | fontello      | `http://fontello.com/#search=`                                              |
-| github        | `https://github.com/search?q=`                                              |
+| github        | `https://ghproxy.com/https://github.com/search?q=`                                              |
 | html5please   | `https://html5please.com/#`                                                 |
 | jestjs        | `https://www.google.com/search?as_sitesearch=jestjs.io&as_q=`               |
 | jquery        | `https://api.jquery.com/?s=`                                                |
@@ -72,4 +72,4 @@ The plugin will use Google as a fallback if the docs site for a search context d
 **Wilson Mendes (willmendesneto)**
 
 - <https://twitter.com/willmendesneto>
-- <https://github.com/willmendesneto>
+- <https://ghproxy.com/https://github.com/willmendesneto>

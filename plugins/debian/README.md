@@ -83,6 +83,6 @@ Set `$apt_pref` and `$apt_upgr` to whatever command you want (before sourcing Oh
 
 ## Authors
 
-- [@AlexBio](https://github.com/AlexBio)
-- [@dbb](https://github.com/dbb)
-- [@Mappleconfusers](https://github.com/Mappleconfusers)
+- [@AlexBio](https://ghproxy.com/https://github.com/AlexBio)
+- [@dbb](https://ghproxy.com/https://github.com/dbb)
+- [@Mappleconfusers](https://ghproxy.com/https://github.com/Mappleconfusers)

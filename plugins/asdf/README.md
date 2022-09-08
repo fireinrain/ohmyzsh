@@ -1,8 +1,8 @@
 ## asdf
 
-**Maintainer:** [@RobLoach](https://github.com/RobLoach)
+**Maintainer:** [@RobLoach](https://ghproxy.com/https://github.com/RobLoach)
 
-Adds integration with [asdf](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
+Adds integration with [asdf](https://ghproxy.com/https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
 
 ### Installation
 
@@ -12,14 +12,14 @@ Adds integration with [asdf](https://github.com/asdf-vm/asdf), the extendable ve
   plugins=(asdf)
   ```
 
-2. [Install asdf](https://github.com/asdf-vm/asdf#setup) by running the following:
+2. [Install asdf](https://ghproxy.com/https://github.com/asdf-vm/asdf#setup) by running the following:
   ```
-  git clone https://github.com/asdf-vm/asdf.git ~/.asdf
+  git clone https://ghproxy.com/https://github.com/asdf-vm/asdf.git ~/.asdf
   ```
 
 ### Usage
 
-See the [asdf usage documentation](https://github.com/asdf-vm/asdf#usage) for information on how to use asdf:
+See the [asdf usage documentation](https://ghproxy.com/https://github.com/asdf-vm/asdf#usage) for information on how to use asdf:
 
 ```
 asdf plugin-add nodejs git@github.com:asdf-vm/asdf-nodejs.git

@@ -11,11 +11,11 @@
 # more about both of these fantastic two people here:
 #
 # Sindre Sorhus
-#   Github:   https://github.com/sindresorhus
+#   Github:   https://ghproxy.com/https://github.com/sindresorhus
 #   Twitter:  https://twitter.com/sindresorhus
 #
 # Julien Nicoulaud
-#   Github:   https://github.com/nicoulaj
+#   Github:   https://ghproxy.com/https://github.com/nicoulaj
 #   Twitter:  https://twitter.com/nicoulaj
 #
 # ------------------------------------------------------------------------------

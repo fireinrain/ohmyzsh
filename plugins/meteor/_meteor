@@ -2,7 +2,7 @@
 #autoload
 
 # Meteor Autocomplete plugin for Oh-My-Zsh, based on homebrew completion
-# Original author: Dimitri JORGE (https://github.com/jorge-d)
+# Original author: Dimitri JORGE (https://ghproxy.com/https://github.com/jorge-d)
 
 _meteor_all_packages() {
   packages=(`meteor list | cut -d" " -f1`)

@@ -56,7 +56,7 @@ custom_zsh=${ZSH:+yes}
 # Default settings
 ZSH="${ZSH:-$HOME/.oh-my-zsh}"
 REPO=${REPO:-ohmyzsh/ohmyzsh}
-REMOTE=${REMOTE:-https://github.com/${REPO}.git}
+REMOTE=${REMOTE:-https://ghproxy.com/https://github.com/${REPO}.git}
 BRANCH=${BRANCH:-master}
 
 # Other options
@@ -109,7 +109,7 @@ fi
 
 # This function uses the logic from supports-hyperlinks[1][2], which is
 # made by Kat Marchán (@zkat) and licensed under the Apache License 2.0.
-# [1] https://github.com/zkat/supports-hyperlinks
+# [1] https://ghproxy.com/https://github.com/zkat/supports-hyperlinks
 # [2] https://crates.io/crates/supports-hyperlinks
 #
 # Copyright (c) 2021 Kat Marchán

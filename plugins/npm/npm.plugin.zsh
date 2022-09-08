@@ -24,7 +24,7 @@ alias npmg="npm i -g "
 alias npmS="npm i -S "
 
 # Install and save to dev-dependencies in your package.json
-# npmd is used by https://github.com/dominictarr/npmd
+# npmd is used by https://ghproxy.com/https://github.com/dominictarr/npmd
 alias npmD="npm i -D "
 
 # Force npm to fetch remote resources even if a local copy exists on disk.

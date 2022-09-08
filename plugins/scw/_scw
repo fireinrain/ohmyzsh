@@ -2,7 +2,7 @@
 #
 # zsh completion for scw (https://www.scaleway.com)
 #
-# Inspired by https://github.com/felixr/docker-zsh-completion
+# Inspired by https://ghproxy.com/https://github.com/felixr/docker-zsh-completion
 
 __scw_get_servers() {
     local expl

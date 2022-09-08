@@ -21,8 +21,8 @@ To use it, add `zsh-navigation-tools` to the plugins array in your zshrc file:
 plugins=(... zsh-navigation-tools)
 ```
 
-Also check out [![ZCA](https://imageshack.com/a/img911/8084/qSpO8a.png) Zsh Command Architect](https://github.com/zdharma-continuum/zsh-cmd-architect)
-and [Zconvey](https://github.com/zdharma-continuum/zconvey)
+Also check out [![ZCA](https://imageshack.com/a/img911/8084/qSpO8a.png) Zsh Command Architect](https://ghproxy.com/https://github.com/zdharma-continuum/zsh-cmd-architect)
+and [Zconvey](https://ghproxy.com/https://github.com/zdharma-continuum/zconvey)
 
 
 
@@ -231,7 +231,7 @@ The same with doing any non-typical Zsh Navigation Tools installation.
 
 ## More
 
-- be aware of [this](https://github.com/zdharma-continuum/zsh-navigation-tools/blob/f49f910d239ae5bc6e1a5bb34930307b4f4e3ffe/zsh-navigation-tools.plugin.zsh#L35-L49)
+- be aware of [this](https://ghproxy.com/https://github.com/zdharma-continuum/zsh-navigation-tools/blob/f49f910d239ae5bc6e1a5bb34930307b4f4e3ffe/zsh-navigation-tools.plugin.zsh#L35-L49)
 
 # Fixing tmux, screen and linux vt
 

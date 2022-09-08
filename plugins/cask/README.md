@@ -1,6 +1,6 @@
 # Cask plugin
 
-[Cask](https://github.com/cask/cask) is a project management tool for Emacs that helps
+[Cask](https://ghproxy.com/https://github.com/cask/cask) is a project management tool for Emacs that helps
 automate the package development cycle; development, dependencies, testing, building,
 packaging and more.
 

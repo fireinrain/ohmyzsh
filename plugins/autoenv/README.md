@@ -1,6 +1,6 @@
 # Autoenv plugin
 
-This plugin loads the [Autoenv](https://github.com/inishchith/autoenv).
+This plugin loads the [Autoenv](https://ghproxy.com/https://github.com/inishchith/autoenv).
 
 To use it, add `autoenv` to the plugins array in your zshrc file:
 
@@ -17,4 +17,4 @@ plugins=(... autoenv)
 
 In order to make this work, you will need to have the autoenv installed.
 
-More info on the usage and install at [the project's homepage](https://github.com/inishchith/autoenv).
+More info on the usage and install at [the project's homepage](https://ghproxy.com/https://github.com/inishchith/autoenv).

@@ -115,4 +115,4 @@ use their default values:
 
 ## Author
 
-- [Karolin Varner](https://github.com/koraa)
+- [Karolin Varner](https://ghproxy.com/https://github.com/koraa)

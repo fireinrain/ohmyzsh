@@ -53,6 +53,6 @@ Alternatively, seek out the [online documentation][3]. And don't forget, there a
 Contributed to `oh_my_zsh` by [benwilcock][2].  
 
 [1]: https://docs.cloudfoundry.org/cf-cli/install-go-cli.html
-[2]: https://github.com/benwilcock
+[2]: https://ghproxy.com/https://github.com/benwilcock
 [3]: https://docs.cloudfoundry.org/cf-cli/getting-started.html
 [4]: https://plugins.cloudfoundry.org/

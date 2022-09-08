@@ -15,7 +15,7 @@ export PATH="\$PYENV_ROOT/bin:\$PATH"
 eval "\$(pyenv init --path)"
 ${(%):-"%F{yellow}"}
 You'll need to restart your user session for the changes to take effect.${(%):-%b%f}
-For more information go to https://github.com/pyenv/pyenv/#installation.
+For more information go to https://ghproxy.com/https://github.com/pyenv/pyenv/#installation.
 EOF
 }
 

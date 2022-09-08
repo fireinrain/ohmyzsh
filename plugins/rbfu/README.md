@@ -1,6 +1,6 @@
 # rbfu plugin
 
-This plugin starts [rbfu](https://github.com/hmans/rbfu), a minimal Ruby version
+This plugin starts [rbfu](https://ghproxy.com/https://github.com/hmans/rbfu), a minimal Ruby version
 manager, and adds some useful functions.
 
 To use it, add `rbfu` to the plugins array in your zshrc file:

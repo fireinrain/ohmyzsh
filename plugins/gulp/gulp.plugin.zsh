@@ -11,7 +11,7 @@
 
 #
 # André König
-# GitHub: https://github.com/akoenig
+# GitHub: https://ghproxy.com/https://github.com/akoenig
 # Twitter: https://twitter.com/caiifr
 #
 

@@ -11,7 +11,7 @@
 # Inspiration
 # -----------
 #  * @albers docker-compose bash completion script
-#  * @felixr docker zsh completion script : https://github.com/felixr/docker-zsh-completion
+#  * @felixr docker zsh completion script : https://ghproxy.com/https://github.com/felixr/docker-zsh-completion
 # -------------------------------------------------------------------------
 
 __docker-compose_q() {

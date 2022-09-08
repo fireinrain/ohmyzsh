@@ -8,7 +8,7 @@ To use it, add `jhbuild` to the plugins array of your zshrc file:
 plugins=(... jhbuild)
 ```
 
-**Maintainer:** [Miguel Vaello](https://github.com/miguxbe)
+**Maintainer:** [Miguel Vaello](https://ghproxy.com/https://github.com/miguxbe)
 
 ## Aliases
 

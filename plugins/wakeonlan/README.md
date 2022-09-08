@@ -1,7 +1,7 @@
 # wakeonlan
 
 This plugin provides a wrapper around the "wakeonlan" tool available from most
-distributions' package repositories, or from [the following website](https://github.com/jpoliv/wakeonlan).
+distributions' package repositories, or from [the following website](https://ghproxy.com/https://github.com/jpoliv/wakeonlan).
 
 To use it, add `wakeonlan` to the plugins array in your zshrc file:
 

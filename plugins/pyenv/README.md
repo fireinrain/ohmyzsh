@@ -1,6 +1,6 @@
 # pyenv
 
-This plugin looks for [pyenv](https://github.com/pyenv/pyenv), a Simple Python version
+This plugin looks for [pyenv](https://ghproxy.com/https://github.com/pyenv/pyenv), a Simple Python version
 management system, and loads it if it's found. It also loads pyenv-virtualenv, a pyenv
 plugin to manage virtualenv, if it's found.
 

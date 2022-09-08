@@ -54,7 +54,7 @@ function frontend() {
     emberjs        $(_frontend_fallback 'emberjs.com/')
     flowtype       $(_frontend_fallback 'flow.org/en/docs/')
     fontello       'http://fontello.com/#search='
-    github         'https://github.com/search?q='
+    github         'https://ghproxy.com/https://github.com/search?q='
     html5please    'https://html5please.com/#'
     jestjs         $(_frontend_fallback 'jestjs.io')
     jquery         'https://api.jquery.com/?s='

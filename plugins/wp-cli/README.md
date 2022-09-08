@@ -10,7 +10,7 @@ To use it, add `wp-cli` to the plugins array in your zshrc file:
 plugins=(... wp-cli)
 ```
 
-**Maintainer:** [joshmedeski](https://github.com/joshmedeski)
+**Maintainer:** [joshmedeski](https://ghproxy.com/https://github.com/joshmedeski)
 
 ## Aliases
 

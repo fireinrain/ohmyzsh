@@ -4,7 +4,7 @@ This plugin adds completion for [HubFlow](https://datasift.github.io/gitflow/) (
 aliases for common commands. HubFlow is a git extension to make it easy to use GitFlow with GitHub. Based on the
 original gitflow extension for git.
 
-The hubflow tool has to be [installed](https://github.com/datasift/gitflow#installation) separately.
+The hubflow tool has to be [installed](https://ghproxy.com/https://github.com/datasift/gitflow#installation) separately.
 
 To use it, add `git-hubflow` to the plugins array in your zshrc file:
 

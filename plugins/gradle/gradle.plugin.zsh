@@ -3,7 +3,7 @@
 # Otherwise it will call gradle directly.
 function gradle-or-gradlew() {
   # find project root
-  # taken from https://github.com/gradle/gradle-completion
+  # taken from https://ghproxy.com/https://github.com/gradle/gradle-completion
   local dir="$PWD" project_root="$PWD"
   while [[ "$dir" != / ]]; do
     if [[ -f "$dir/settings.gradle" || -f "$dir/settings.gradle.kts" || -f "$dir/gradlew" ]]; then

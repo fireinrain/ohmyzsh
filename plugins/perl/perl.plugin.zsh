@@ -1,4 +1,4 @@
-# https://github.com/dbbolton
+# https://ghproxy.com/https://github.com/dbbolton
 #
 # Below are some useful Perl-related aliases/functions that I use with zsh.
 

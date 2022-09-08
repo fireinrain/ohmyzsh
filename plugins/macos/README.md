@@ -8,7 +8,7 @@ To start using it, add the `macos` plugin to your plugins array in `~/.zshrc`:
 plugins=(... macos)
 ```
 
-Original author: [Sorin Ionescu](https://github.com/sorin-ionescu)
+Original author: [Sorin Ionescu](https://ghproxy.com/https://github.com/sorin-ionescu)
 
 ## Commands
 
@@ -39,7 +39,7 @@ Original author: [Sorin Ionescu](https://github.com/sorin-ionescu)
 
 This application makes use of the following third party scripts:
 
-[shpotify](https://github.com/hnarayanan/shpotify)
+[shpotify](https://ghproxy.com/https://github.com/hnarayanan/shpotify)
 
 Copyright (c) 2012–2019 [Harish Narayanan](https://harishnarayanan.org/).
 

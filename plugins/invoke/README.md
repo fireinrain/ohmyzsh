@@ -1,6 +1,6 @@
 # Invoke plugin
 
-This plugin adds completion for [invoke](https://github.com/pyinvoke/invoke).
+This plugin adds completion for [invoke](https://ghproxy.com/https://github.com/pyinvoke/invoke).
 
 To use it, add `invoke` to the plugins array in your `~/.zshrc` file:
 

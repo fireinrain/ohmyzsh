@@ -12,10 +12,10 @@ Finally, you'll begin to get the sort of attention that you have always felt you
 
 To learn more, visit [ohmyz.sh](https://ohmyz.sh), follow [@ohmyzsh](https://twitter.com/ohmyzsh) on Twitter, and join us on [Discord](https://discord.gg/ohmyzsh).
 
-[![CI](https://github.com/ohmyzsh/ohmyzsh/workflows/CI/badge.svg)](https://github.com/ohmyzsh/ohmyzsh/actions?query=workflow%3ACI)
+[![CI](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/workflows/CI/badge.svg)](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/actions?query=workflow%3ACI)
 [![Follow @ohmyzsh](https://img.shields.io/twitter/follow/ohmyzsh?label=Follow+@ohmyzsh&style=flat)](https://twitter.com/intent/follow?screen_name=ohmyzsh)
 [![Discord server](https://img.shields.io/discord/642496866407284746)](https://discord.gg/ohmyzsh)
-[![Gitpod ready](https://img.shields.io/badge/Gitpod-ready-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ohmyzsh/ohmyzsh)
+[![Gitpod ready](https://img.shields.io/badge/Gitpod-ready-blue?logo=gitpod)](https://gitpod.io/#https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh)
 [![huntr.dev](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev/bounties/disclose/?utm_campaign=ohmyzsh%2Fohmyzsh&utm_medium=social&utm_source=github&target=https%3A%2F%2Fgithub.com%2Fohmyzsh%2Fohmyzsh)
 
 <details>
@@ -58,7 +58,7 @@ To learn more, visit [ohmyz.sh](https://ohmyz.sh), follow [@ohmyzsh](https://twi
 ### Prerequisites
 
 - A Unix-like operating system: macOS, Linux, BSD. On Windows: WSL2 is preferred, but cygwin or msys also mostly work.
-- [Zsh](https://www.zsh.org) should be installed (v4.3.9 or more recent is fine but we prefer 5.0.8 and newer). If not pre-installed (run `zsh --version` to confirm), check the following wiki instructions here: [Installing ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+- [Zsh](https://www.zsh.org) should be installed (v4.3.9 or more recent is fine but we prefer 5.0.8 and newer). If not pre-installed (run `zsh --version` to confirm), check the following wiki instructions here: [Installing ZSH](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 - `curl` or `wget` should be installed
 - `git` should be installed (recommended v2.4.11 or higher)
 
@@ -89,7 +89,7 @@ sh install.sh
 
 ### Plugins
 
-Oh My Zsh comes with a shitload of plugins for you to take advantage of. You can take a look in the [plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins) directory and/or the [wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) to see what's currently available.
+Oh My Zsh comes with a shitload of plugins for you to take advantage of. You can take a look in the [plugins](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins) directory and/or the [wiki](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) to see what's currently available.
 
 #### Enabling Plugins
 
@@ -121,7 +121,7 @@ Each built-in plugin includes a **README**, documenting it. This README should s
 
 ### Themes
 
-We'll admit it. Early in the Oh My Zsh world, we may have gotten a bit too theme happy. We have over one hundred and fifty themes now bundled. Most of them have [screenshots](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) on the wiki (We are working on updating this!). Check them out!
+We'll admit it. Early in the Oh My Zsh world, we may have gotten a bit too theme happy. We have over one hundred and fifty themes now bundled. Most of them have [screenshots](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) on the wiki (We are working on updating this!). Check them out!
 
 #### Selecting a Theme
 
@@ -137,16 +137,16 @@ To use a different theme, simply change the value to match the name of your desi
 
 ```sh
 ZSH_THEME="agnoster" # (this is one of the fancy ones)
-# see https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster
+# see https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster
 ```
 
-_Note: many themes require installing a [Powerline Font](https://github.com/powerline/fonts) or a [Nerd Font](https://github.com/ryanoasis/nerd-fonts) in order to render properly. Without them, these themes will render [weird prompt symbols](https://github.com/ohmyzsh/ohmyzsh/wiki/FAQ#i-have-a-weird-character-in-my-prompt)_
+_Note: many themes require installing a [Powerline Font](https://ghproxy.com/https://github.com/powerline/fonts) or a [Nerd Font](https://ghproxy.com/https://github.com/ryanoasis/nerd-fonts) in order to render properly. Without them, these themes will render [weird prompt symbols](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/wiki/FAQ#i-have-a-weird-character-in-my-prompt)_
 
 Open up a new terminal window and your prompt should look something like this:
 
 ![Agnoster theme](https://cloud.githubusercontent.com/assets/2618447/6316862/70f58fb6-ba03-11e4-82c9-c083bf9a6574.png)
 
-In case you did not find a suitable theme for your needs, please have a look at the wiki for [more of them](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes).
+In case you did not find a suitable theme for your needs, please have a look at the wiki for [more of them](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes).
 
 If you're feeling feisty, you can let the computer select one randomly for you each time you open a new terminal window.
 
@@ -171,7 +171,7 @@ ZSH_THEME_RANDOM_IGNORED=(pygmalion tjkirch_mod)
 
 ### FAQ
 
-If you have some more questions or issues, you might find a solution in our [FAQ](https://github.com/ohmyzsh/ohmyzsh/wiki/FAQ).
+If you have some more questions or issues, you might find a solution in our [FAQ](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/wiki/FAQ).
 
 ## Advanced Topics
 
@@ -209,9 +209,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 The install script also accepts these variables to allow installation of a different repository:
 
 - `REPO` (default: `ohmyzsh/ohmyzsh`): this takes the form of `owner/repository`. If you set
-  this variable, the installer will look for a repository at `https://github.com/{owner}/{repository}`.
+  this variable, the installer will look for a repository at `https://ghproxy.com/https://github.com/{owner}/{repository}`.
 
-- `REMOTE` (default: `https://github.com/${REPO}.git`): this is the full URL of the git repository
+- `REMOTE` (default: `https://ghproxy.com/https://github.com/${REPO}.git`): this is the full URL of the git repository
   clone. You can use this setting if you want to install from a fork that is not on GitHub (GitLab,
   Bitbucket...) or if you want to clone with SSH instead of HTTPS (`git@github.com:user/project.git`).
 
@@ -232,7 +232,7 @@ REPO=apjanke/oh-my-zsh BRANCH=edge sh install.sh
 ##### 1. Clone the repository <!-- omit in toc -->
 
 ```sh
-git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
+git clone https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
 ```
 
 ##### 2. _Optionally_, backup your existing `~/.zshrc` file <!-- omit in toc -->
@@ -329,13 +329,13 @@ Before you participate in our delightful community, please read the [code of con
 
 I'm far from being a [Zsh](https://www.zsh.org/) expert and suspect there are many ways to improve – if you have ideas on how to make the configuration easier to maintain (and faster), don't hesitate to fork and send pull requests!
 
-We also need people to test out pull requests. So take a look through [the open issues](https://github.com/ohmyzsh/ohmyzsh/issues) and help where you can.
+We also need people to test out pull requests. So take a look through [the open issues](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/issues) and help where you can.
 
 See [Contributing](CONTRIBUTING.md) for more details.
 
 ### Do NOT send us themes
 
-We have (more than) enough themes for the time being. Please add your theme to the [external themes](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes) wiki page.
+We have (more than) enough themes for the time being. Please add your theme to the [external themes](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes) wiki page.
 
 ## Contributors
 

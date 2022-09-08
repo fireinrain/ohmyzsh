@@ -23,7 +23,7 @@ def get_tagname_or_hash():
         return hash_
     return None
 
-# Re-use method from https://github.com/magicmonty/bash-git-prompt to get stashs count
+# Re-use method from https://ghproxy.com/https://github.com/magicmonty/bash-git-prompt to get stashs count
 def get_stash():
     cmd = Popen(['git', 'rev-parse', '--git-dir'], stdout=PIPE, stderr=PIPE)
     so, se = cmd.communicate()

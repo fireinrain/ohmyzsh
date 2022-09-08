@@ -35,4 +35,4 @@ could be overridden because of a user setting.
 
 ## Author
 
-- [Sorin Ionescu](https://github.com/sorin-ionescu).
+- [Sorin Ionescu](https://ghproxy.com/https://github.com/sorin-ionescu).

@@ -45,4 +45,4 @@ implementation is by [Jim Hester][4] in September 2012.
 [2]: http://dieter.plaetinck.be/per_directory_bash
 [3]: https://www.zsh.org/mla/users/1997/msg00226.html
 [4]: https://jimhester.com
-[5]: https://github.com/jimhester/per-directory-history
+[5]: https://ghproxy.com/https://github.com/jimhester/per-directory-history

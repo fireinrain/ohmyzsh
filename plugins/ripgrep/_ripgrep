@@ -450,7 +450,7 @@ _rg "$@"
 # following:
 #
 # * http://zsh.sourceforge.net/Doc/Release/Completion-System.html
-# * https://github.com/zsh-users/zsh/blob/master/Etc/completion-style-guide
+# * https://ghproxy.com/https://github.com/zsh-users/zsh/blob/master/Etc/completion-style-guide
 #
 # OVERVIEW
 #

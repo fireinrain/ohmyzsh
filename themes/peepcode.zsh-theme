@@ -1,6 +1,6 @@
 #
 # Based on Geoffrey Grosenbach's peepcode zsh theme from
-# https://github.com/topfunky/zsh-simple
+# https://ghproxy.com/https://github.com/topfunky/zsh-simple
 #
 
 git_repo_path() {

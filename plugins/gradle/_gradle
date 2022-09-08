@@ -1,6 +1,6 @@
 #compdef gradle gradlew gw
 #
-# Taken from https://github.com/gradle/gradle-completion
+# Taken from https://ghproxy.com/https://github.com/gradle/gradle-completion
 # Copyright (c) 2017 Eric Wendelin
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy of

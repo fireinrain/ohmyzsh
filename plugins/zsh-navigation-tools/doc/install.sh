@@ -24,7 +24,7 @@ if test -d ~/.config/znt/zsh-navigation-tools; then
     git pull origin master
 else
     cd ~/.config/znt
-    git clone https://github.com/psprint/zsh-navigation-tools.git zsh-navigation-tools
+    git clone https://ghproxy.com/https://github.com/psprint/zsh-navigation-tools.git zsh-navigation-tools
 fi
 echo ">>> Done"
 

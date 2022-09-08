@@ -8,7 +8,7 @@
 # during normal use of the plugin.
 #
 # The official upstream repo is zsh-users/zsh-history-substring-search
-# https://github.com/zsh-users/zsh-history-substring-search
+# https://ghproxy.com/https://github.com/zsh-users/zsh-history-substring-search
 #
 # This is a zsh script, not a function. Call it with `zsh update-from-upstream.zsh`
 # from the command line, running it from within the plugin directory.
@@ -28,7 +28,7 @@ upstream_basename=zsh-history-substring-search
 plugin_basename=history-substring-search
 UPSTREAM_REPO=zsh-users/$upstream_basename
 need_repo_cleanup=false
-upstream_github_url="https://github.com/$UPSTREAM_REPO"
+upstream_github_url="https://ghproxy.com/https://github.com/$UPSTREAM_REPO"
 
 if [[ -z "$UPSTREAM_REPO_PATH" ]]; then
   # Do a clean checkout

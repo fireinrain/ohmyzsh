@@ -1,6 +1,6 @@
 #compdef kitchen
 # ------------------------------------------------------------------------------
-# Copyright (c) 2014 Github zsh-users - https://github.com/zsh-users
+# Copyright (c) 2014 Github zsh-users - https://ghproxy.com/https://github.com/zsh-users
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -34,7 +34,7 @@
 # Authors
 # -------
 #
-#  * Peter Eisentraut (https://github.com/petere)
+#  * Peter Eisentraut (https://ghproxy.com/https://github.com/petere)
 #
 # ------------------------------------------------------------------------------
 

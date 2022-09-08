@@ -2,7 +2,7 @@
 # Description
 # -----------
 #  zsh completion for docker-machine
-#  https://github.com/leonhartX/docker-machine-zsh-completion
+#  https://ghproxy.com/https://github.com/leonhartX/docker-machine-zsh-completion
 # -------------------------------------------------------------------------
 # Version
 # -------
@@ -14,7 +14,7 @@
 # -------------------------------------------------------------------------
 # Inspiration
 # -----------
-#  * @sdurrheimer docker-compose-zsh-completion https://github.com/sdurrheimer/docker-compose-zsh-completion
+#  * @sdurrheimer docker-compose-zsh-completion https://ghproxy.com/https://github.com/sdurrheimer/docker-compose-zsh-completion
 #  * @ilkka _docker-machine
 
 

@@ -59,4 +59,4 @@ SHELLPROXY_CONFIG="$HOME/.dotfiles/proxy-config"
 
 ## Maintainer
 
-- [@septs](https://github.com/septs)
+- [@septs](https://ghproxy.com/https://github.com/septs)

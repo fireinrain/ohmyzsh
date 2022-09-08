@@ -1,4 +1,4 @@
-# Some aliases for zeus. (See: https://github.com/burke/zeus)
+# Some aliases for zeus. (See: https://ghproxy.com/https://github.com/burke/zeus)
 # Zeus preloads your Rails environment and forks that process whenever
 # needed. This effectively speeds up Rails' boot process to under 1 sec.
 

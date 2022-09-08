@@ -37,7 +37,7 @@ PS1='[\u@\h \W $(kube_ps1)]\$ '
 
 ### Zsh Plugin Managers
 
-#### Using [zplugin](https://github.com/zdharma/zplugin)
+#### Using [zplugin](https://ghproxy.com/https://github.com/zdharma/zplugin)
 
 Update `.zshrc` with:
 ```sh
@@ -78,14 +78,14 @@ If neither binary is available, the prompt will print the following:
 
 There are several great tools that make using kubectl very enjoyable:
 
-- [`kubectx` and `kubens`](https://github.com/ahmetb/kubectx) are great for
+- [`kubectx` and `kubens`](https://ghproxy.com/https://github.com/ahmetb/kubectx) are great for
 fast switching between clusters and namespaces.
 
 ## Tmux port
 
 I have begun porting kube-ps1 to tmux as a status line plugin.  If you prefer
 tmux, and like the functionality provided by kube-ps1, checkout the
-[kube-tmux](https://github.com/jonmosco/kube-tmux) project
+[kube-tmux](https://ghproxy.com/https://github.com/jonmosco/kube-tmux) project
 
 ## Prompt Structure
 
@@ -237,5 +237,5 @@ zsh --no-rcs
 
 ## Contributors
 
-* [Ahmet Alp Balkan](https://github.com/ahmetb)
+* [Ahmet Alp Balkan](https://ghproxy.com/https://github.com/ahmetb)
 * Jared Yanovich

@@ -52,10 +52,10 @@ Commands that use `$APT` will use `apt` if installed or defer to `apt-get` other
 
 ## Authors:
 
-- [@AlexBio](https://github.com/AlexBio)
-- [@dbb](https://github.com/dbb)
-- [@Mappleconfusers](https://github.com/Mappleconfusers)
-- [@trinaldi](https://github.com/trinaldi)
+- [@AlexBio](https://ghproxy.com/https://github.com/AlexBio)
+- [@dbb](https://ghproxy.com/https://github.com/dbb)
+- [@Mappleconfusers](https://ghproxy.com/https://github.com/Mappleconfusers)
+- [@trinaldi](https://ghproxy.com/https://github.com/trinaldi)
 - [Nicolas Jonas](https://nextgenthemes.com)
-- [@loctauxphilippe](https://github.com/loctauxphilippe)
-- [@HaraldNordgren](https://github.com/HaraldNordgren)
+- [@loctauxphilippe](https://ghproxy.com/https://github.com/loctauxphilippe)
+- [@HaraldNordgren](https://ghproxy.com/https://github.com/HaraldNordgren)

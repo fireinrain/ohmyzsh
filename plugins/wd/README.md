@@ -10,7 +10,7 @@ Because `cd` seems inefficient when the folder is frequently visited or has a lo
 
 ## Setup
 
-### [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+### [oh-my-zsh](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh)
 
 `wd` comes bundled with oh-my-zsh!
 
@@ -20,7 +20,7 @@ Just add the plugin in your `.zshrc` file:
 plugins=(... wd)
 ```
 
-### [Antigen](https://github.com/zsh-users/antigen)
+### [Antigen](https://ghproxy.com/https://github.com/zsh-users/antigen)
 
 In your `.zshrc`:
 
@@ -28,7 +28,7 @@ In your `.zshrc`:
 antigen bundle mfaerevaag/wd
 ```
 
-### [Antibody](https://github.com/getantibody/antibody)
+### [Antibody](https://ghproxy.com/https://github.com/getantibody/antibody)
 
 In your `.zshrc`:
 
@@ -53,7 +53,7 @@ wd() {
 }
 ```
 
-### [zplug](https://github.com/zplug/zplug)
+### [zplug](https://ghproxy.com/https://github.com/zplug/zplug)
 
 ```zsh
 zplug "mfaerevaag/wd", as:command, use:"wd.sh", hook-load:"wd() { . $ZPLUG_REPOS/mfaerevaag/wd/wd.sh }"
@@ -61,18 +61,18 @@ zplug "mfaerevaag/wd", as:command, use:"wd.sh", hook-load:"wd() { . $ZPLUG_REPOS
 
 ### Automatic
 
-_Note: automatic install does not provide the manpage. It is also poor security practice to run remote code without first reviewing it, so you ought to look [here](https://github.com/mfaerevaag/wd/blob/master/install.sh)_
+_Note: automatic install does not provide the manpage. It is also poor security practice to run remote code without first reviewing it, so you ought to look [here](https://ghproxy.com/https://github.com/mfaerevaag/wd/blob/master/install.sh)_
 
 Run either command in your terminal:
 
 ```zsh
-curl -L https://github.com/mfaerevaag/wd/raw/master/install.sh | sh
+curl -L https://ghproxy.com/https://github.com/mfaerevaag/wd/raw/master/install.sh | sh
 ```
 
 or
 
 ```zsh
-wget --no-check-certificate https://github.com/mfaerevaag/wd/raw/master/install.sh -O - | sh
+wget --no-check-certificate https://ghproxy.com/https://github.com/mfaerevaag/wd/raw/master/install.sh -O - | sh
 ```
 
 ### Manual
@@ -102,7 +102,7 @@ sudo chmod 644 /usr/share/man/man1/wd.1
 
 ## Completion
 
-If you're NOT using [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and you want to utilize the zsh-completion feature, you will also need to add the path to your `wd` installation (`~/bin/wd` if you used the automatic installer) to your `fpath`.
+If you're NOT using [oh-my-zsh](https://ghproxy.com/https://github.com/robbyrussell/oh-my-zsh) and you want to utilize the zsh-completion feature, you will also need to add the path to your `wd` installation (`~/bin/wd` if you used the automatic installer) to your `fpath`.
 E.g. in your `~/.zshrc`:
 
 ```zsh
@@ -150,7 +150,7 @@ wd ...
 ```
 
 This is a wrapper for the zsh's `dirs` function.  
-_You might need to add `setopt AUTO_PUSHD` to your `.zshrc` if you are not using [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)._
+_You might need to add `setopt AUTO_PUSHD` to your `.zshrc` if you are not using [oh-my-zsh](https://ghproxy.com/https://github.com/ohmyzsh/ohmyzsh)._
 
 * Remove warp point:
 
@@ -234,7 +234,7 @@ Defines the path where warp points get stored. Defaults to `$HOME/.warprc`.
 
 ## Testing
 
-`wd` comes with a small test suite, run with [shunit2](https://github.com/kward/shunit2). This can be used to confirm that things are working as they should on your setup, or to demonstrate an issue.
+`wd` comes with a small test suite, run with [shunit2](https://ghproxy.com/https://github.com/kward/shunit2). This can be used to confirm that things are working as they should on your setup, or to demonstrate an issue.
 
 To run, simply `cd` into the `test` directory and run the `tests.sh`.
 
@@ -255,6 +255,6 @@ Anyone else contributing is greatly appreciated and will be mentioned in the rel
 
 ---
 
-Credit to [altschuler](https://github.com/altschuler) for an awesome idea.
+Credit to [altschuler](https://ghproxy.com/https://github.com/altschuler) for an awesome idea.
 
 Hope you enjoy!

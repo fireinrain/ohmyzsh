@@ -26,4 +26,4 @@ plugins=(... iterm2)
 
 ## Contributors
 
-- [Aviv Rosenberg](https://github.com/avivrosenberg)
+- [Aviv Rosenberg](https://ghproxy.com/https://github.com/avivrosenberg)

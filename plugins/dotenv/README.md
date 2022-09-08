@@ -88,5 +88,5 @@ This plugin only sources the `.env` file. Nothing less, nothing more. It doesn't
 
 If you need more advanced and feature-rich ENV management, check out these awesome projects:
 
-* [direnv](https://github.com/direnv/direnv)
-* [zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv)
+* [direnv](https://ghproxy.com/https://github.com/direnv/direnv)
+* [zsh-autoenv](https://ghproxy.com/https://github.com/Tarrasch/zsh-autoenv)

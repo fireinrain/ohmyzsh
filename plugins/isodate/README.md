@@ -1,6 +1,6 @@
 # Isodate plugin
 
-**Maintainer:** [@Frani](https://github.com/frani)
+**Maintainer:** [@Frani](https://ghproxy.com/https://github.com/frani)
 
 This plugin adds completion for the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601),
 as well as some aliases for common Date commands.
